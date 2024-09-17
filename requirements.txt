@@ -1,0 +1,5 @@
+lumibot
+torch
+transformers
+alpaca-trade-api
+timedelta
